@@ -1,0 +1,10 @@
+div{
+    color: blueviolet;
+    background-color: azure;
+    border: 6px solid chartreuse;
+    padding: 10px;
+}
+h3{
+    border: 2px solid black;
+    width: 25%;
+}
